@@ -1,0 +1,11 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
