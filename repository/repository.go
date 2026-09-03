@@ -1,8 +1,8 @@
 package repository
 
 import (
-	"Vendor_Management_System/config"
-	"Vendor_Management_System/models"
+	"vendor_Management_system/config"
+	"vendor_Management_system/models"
 )
 
 func CreateVendor(vendor *models.Vendor) error {

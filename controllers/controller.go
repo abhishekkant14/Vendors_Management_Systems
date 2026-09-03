@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"Vendor_Management_System/models"
-	"Vendor_Management_System/repository"
+	"vendor_Management_system/models"
+	"vendor_Management_system/repository"
 
 	"github.com/gin-gonic/gin"
 )
